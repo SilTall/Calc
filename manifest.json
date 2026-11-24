@@ -1,1 +1,1 @@
-{"name":"El taller de Sil","short_name":"Taller de Sil","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f1e6","theme_color":"#eed0c2","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png"}]}
+{"name": "Gestión interna", "short_name": "Gestión", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f4f1e6", "theme_color": "#eed0c2", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
